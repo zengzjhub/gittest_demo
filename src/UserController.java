@@ -6,4 +6,7 @@ public class UserController {
     public String logout(){
         return "logout success !";
     }
+    public String log(){
+        return  "日志为...";
+    }
 }
