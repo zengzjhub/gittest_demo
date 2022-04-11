@@ -9,7 +9,10 @@ public class UserController {
     public String log(){
         return  "日志为...";
     }
-    public String first(){
+    public String first() {
         return "first";
+    }
+    public String second(){
+        return "second";
     }
 }
